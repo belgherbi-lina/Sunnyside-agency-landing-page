@@ -38,13 +38,7 @@ header {
     text-align: center;
     color: var(--White);
     font-size: var(--font-size);
-}/*
-header main {
-    position: absolute;
-    top: 20px;
-    left: 10px;
-    right: 10px;
-}*/
+}
 main {
     padding-top: 20px;
     margin-left: 10px;
